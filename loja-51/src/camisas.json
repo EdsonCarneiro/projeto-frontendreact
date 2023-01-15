@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Aliens",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755421-MLB20799544991_072016-W.jpg",
+    "valor": 120
+    
+  },
+  {
+    "id": 2,
+    "name": "Astronauta",
+    "imagem": "https://www.rockzclub.com.br/wp-content/uploads/2017/10/MR-030.jpg",
+    "valor": 200
+    
+  },
+
+  {
+    "id": 3,
+    "name": "Basquete",
+    "imagem": "https://images-americanas.b2w.io/produtos/5389295096/imagens/camiseta-masculina-astronauta-enterrando-basquete/5389295176_1_large.jpg",
+    "valor": 160
+    
+  },
+  {
+    "id": 4,
+    "name": "Céu Estrelado",
+    "imagem": "https://cf.shopee.com.br/file/d07838e19ea1f50ca34629b3f7090ae0",
+    "valor": 100
+    
+  },
+
+  {
+    "id": 5,
+    "name": "Galaxias",
+    "imagem": "https://www.guller.com.br/9497-large_default/camiseta-estampada-galaxia-estilo-hip-hop-fashion-el%C3%A1stica-moda-casual-manga-curta-masculino.jpg",
+    "valor": 130
+  },
+
+  {
+    "id": 6,
+    "name": "Star Trek",
+    "imagem": "https://www.escambauvirtual.com/imagem/index/25324265/G/camiseta_camisa_star_trek_equinox_masculina.jpg",
+    "valor": "210"
+  }
+]
